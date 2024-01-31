@@ -15,7 +15,7 @@
 - 📫 How to reach me **ayari.hicham01@gmail.com**
 <br/>
 <br/>
-<h3 align="left">Connect with me:</h3>
+### 📫 Contact Me
 <p align="left">
 <a href="https://linkedin.com/in/hichem-ayari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hichem-ayari" height="30" width="40" /></a>
 <a href="https://fb.com/hichem.ayari.1654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hichem.ayari.1654" height="30" width="40" /></a>
@@ -28,15 +28,15 @@
 
 <h3 align="left">📦 Toolbox:</h3>
 
-**Frontend Development**: `React` JAVAsCRIPT TypeScript 
+**Frontend Development**: `React` `JAVAsCRIPT` `TypeScript` 
 
-**Version Control**: Git GitLab 
+**Version Control**: `Git` `GitLab` 
 
-**Backend Development**: PostgreSQL Node.js Express MongoDB   
+**Backend Development**: `PostgreSQL` `Node.js` `Express` `MongoDB`   
 
-**Testing**: Postman Insomnia
+**Testing**: `Postman` `Insomnia`
 
-**Others**: Storybook Scrum Jira
+**Others**: `Storybook` `Scrum` `Jira`
 
 ### ✨ Fun Facts
 
@@ -44,8 +44,8 @@
 - I love reading books and discussing it with people
 - I love writing
 
-### 📫 Contact
-For a quick response, DM me on [https://www.instagram.com/ayarihichem/](Instagram) or [https://www.linkedin.com/in/hichem-ayari/](LinkedIn).
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hichem-18&show_icons=true&locale=en&layout=compact" alt="hichem-18" /></p>
 
 <p>&nbsp;<img center="right" src="https://github-readme-stats.vercel.app/api?username=hichem-18&show_icons=true&locale=en" alt="hichem-18" /></p>
