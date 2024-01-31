@@ -5,6 +5,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Freelance projects**
 
 - 🌱 I’m currently learning **Python**
@@ -44,7 +45,7 @@
 - I love writing
 
 ### 📫 Contact
-For a quick response, DM me on (https://www.instagram.com/ayarihichem/)[Instagram] or (https://www.linkedin.com/in/hichem-ayari/)[LinkedIn].
+For a quick response, DM me on [https://www.instagram.com/ayarihichem/](Instagram) or [https://www.linkedin.com/in/hichem-ayari/](LinkedIn).
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hichem-18&show_icons=true&locale=en&layout=compact" alt="hichem-18" /></p>
 
 <p>&nbsp;<img center="right" src="https://github-readme-stats.vercel.app/api?username=hichem-18&show_icons=true&locale=en" alt="hichem-18" /></p>
