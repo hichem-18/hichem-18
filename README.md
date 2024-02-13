@@ -30,7 +30,7 @@
 
 <h3 align="left">📦 Toolbox:</h3>
 
-**Frontend Development**: `React` `JAVAsCRIPT` `TypeScript` 
+**Frontend Development**: `React` `JavaScript` `TypeScript` 
 
 **Version Control**: `Git` `GitLab` 
 
